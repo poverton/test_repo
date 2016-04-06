@@ -1,1 +1,2 @@
 This text file is the first file in my test repository.
+I'm adding this line so I can try to merge it into master.
